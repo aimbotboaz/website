@@ -111,25 +111,25 @@ body{
   height: 45px;
 }
 #section1{
-    background: url('IMGS/de nummer1.png') no-repeat center center fixed;
+    background: url('IMGS/de nummer1.png') no-repeat center center fixed; 
     background-size: cover;
     padding: 10em 10em 0 10em;
 	  height: 100vh;
 }
 #section2{
-    background: url('IMGS/snake.gif') no-repeat center center fixed;
+    background: url('IMGS/snake.gif') no-repeat center center fixed; 
     background-size: cover;
     padding: 10em 10em 0 10em;
     height: 100vh;
 }
 #section3{
-    background: url('IMGS/hal.jpg') no-repeat center center fixed;
+    background: url('IMGS/hal.jpg') no-repeat center center fixed; 
     background-size: cover;
   	padding: 10em 10em 0 10em;
     height: 100vh;
 }
 #section4{
-    background: url('IMGS/kabel.jpeg') no-repeat center center fixed;
+    background: url('IMGS/kabel.jpeg') no-repeat center center fixed; 
     background-size: cover;
    	padding: 10em 10em 0 10em;
     height: 100vh;
@@ -141,7 +141,7 @@ body{
     text-align: center;
 }
 #section6{
-    background: url('IMGS/gameverslaving.png') no-repeat center center fixed;
+    background: url('IMGS/gameverslaving.png') no-repeat center center fixed; 
     background-size: cover;
 	  padding: 10em 10em 0 10em;
     height: 100vh
@@ -149,11 +149,11 @@ body{
 #section7{
     background: url('IMGS/MC.png') no-repeat center center fixed;
     background-size: cover;
-	  padding: 10em 10em 0 10em;
+    padding: 10em 10em 0 10em;
     height: 100vh
 }
 #section8{
-    background: url('IMGS/genre.png') no-repeat center center fixed;
+    background: url('IMGS/genre.png') no-repeat center center fixed; 
     background-size: cover;
 	  padding: 10em 10em 0 10em;
 
